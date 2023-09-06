@@ -1,0 +1,55 @@
+name: store_oficial
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  brasil_fields: ^1.12.0
+  font_awesome_flutter: ^10.4.0
+  syncfusion_flutter_sliders: ^21.2.4
+  url_launcher: ^6.1.11
+  flutter_native_splash: ^2.3.0
+  flutter_launcher_icons: ^0.13.1
+  lottie: ^2.3.2
+  google_fonts: ^4.0.4
+  webviewx: ^0.2.1
+  http: ^0.13.4
+  dio: ^5.1.2
+  validatorless: ^1.2.3
+  rflutter_alert: ^2.0.2
+  provider: ^6.0.5
+  geolocator: ^9.0.2
+  video_player: ^2.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/lottie/
+    - assets/icons/
+
+
+  fonts:
+    - family: Syne
+      fonts:
+        - asset: assets/fonts/Syne.ttf
+
