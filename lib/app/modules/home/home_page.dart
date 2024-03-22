@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
     ListAdsModel listAdsModel = ListAdsModel(
       latitude: locationModel.lat.toString(),
       longitude: locationModel.long.toString(),
-      token: 'f7DRB00J',
+      token: '',
     );
     try {
       anunciosPais.clear();
@@ -95,7 +95,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   Future<void> getStories() async {
-    const token = 'f7DRB00J';
+    const token = '';
     const url = '';
     try {
       final response = await http.post(
