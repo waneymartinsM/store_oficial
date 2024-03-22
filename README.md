@@ -9,5 +9,28 @@ Aplicativo desenvolvido em Flutter que oferece uma plataforma de anúncios respo
 ## Demonstração
 
 <p>
-<img src="screenshot/Screenshot_Splash_Page.png" width="30%">
+<img src="screenshot/Screenshot_Splash_Page.png" width="20%">
+<img src="screenshot/Screenshot_Login_Page.png" width="20%">
+<img src="screenshot/Screenshot_Register_Page.png" width="20%">
+<img src="screenshot/Screenshot_Register_Page_2.png" width="20%">
+</p>
+
+<p>
+<img src="screenshot/Screenshot_Recover_Pass.png" width="20%">
+<img src="screenshot/Screenshot_Home_Page.png" width="20%">
+<img src="screenshot/Screenshot_Filter_Page.png.png" width="20%">
+<img src="screenshot/Screenshot_Favorite_Page.png" width="20%">
+<img src="screenshot/Screenshot_Cart.png" width="20%">
+</p>
+
+<p>
+<img src="screenshot/Screenshot_Chat_Page_1.png" width="20%">
+<img src="screenshot/Screenshot_Chat_Page_2.png" width="20%">
+<img src="screenshot/Screenshot_Filter_Page.png.png" width="20%">
+<img src="screenshot/Screenshot_Notification_Page.png" width="20%">
+<img src="screenshot/Screenshot_Plans.png" width="20%">
+</p>
+
+<p>
+<img src="screenshot/Screenshot_Profile_Page.png" width="20%">
 </p>
